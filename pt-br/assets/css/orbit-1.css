@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #2d7788;
+  color: #99cc66;
   text-decoration: none;
 }
 a:hover {
@@ -40,7 +40,7 @@ p {
 }
 
 .wrapper {
-  background: #42A8C0;
+  background: #663399;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -48,10 +48,10 @@ p {
 }
 
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #663399;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 280px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -159,7 +159,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2d7788;
+  color: #99cc66;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -174,7 +174,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #99cc66;
   text-align: center;
   font-size: 16px;
   position: relative;
@@ -244,7 +244,7 @@ p {
   background-clip: padding-box;
 }
 .skillset .theme-progress-bar {
-  background: #68bacd;
+  background: #8ab85c;
 }
 
 .footer {
